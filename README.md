@@ -1,3 +1,3 @@
 # Codecademy practice 
-This is a simple static webpage using **html** and **css**.
+This is a basic static webpage using **html** and **css**.
 
